@@ -1,0 +1,41 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE settings (e.g., VSCode, PyCharm)
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Testing
+*.log
+*.coverage
+.coverage*
+nosetests.xml
+coverage.xml
+*.hypothesis/
+
+# Local configuration files
+*.env
+*.ini
+*.json
+*.yml
+
+# Database files
+*.sqlite3
+
+# Python-specific metadata
+*.pyo

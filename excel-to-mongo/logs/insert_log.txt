@@ -1,0 +1,8 @@
+2025-04-12 12:35:06,602 - INFO - Loaded Excel file: excel_file/data.xlsx
+2025-04-12 12:35:06,611 - INFO - Processed $3 records for sheet '$Students'
+2025-04-12 12:35:06,630 - INFO - Inserted batch $1 ($3 records) into '$Students'
+2025-04-12 12:35:06,634 - INFO - Processed $3 records for sheet '$Teachers'
+2025-04-12 12:35:06,650 - INFO - Inserted batch $1 ($3 records) into '$Teachers'
+2025-04-12 12:35:06,652 - INFO - Processed $3 records for sheet '$Courses'
+2025-04-12 12:35:06,666 - INFO - Inserted batch $1 ($3 records) into '$Courses'
+2025-04-12 12:35:06,666 - INFO - ✅ All sheets processed successfully.

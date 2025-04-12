@@ -1,0 +1,1046 @@
+[
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b769e2"
+        },
+        "name": "Backend Development",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b769e3"
+        },
+        "name": "Frontend Development",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b769e4"
+        },
+        "name": "Full-Stack Development",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b769e5"
+        },
+        "name": "Mobile Development - Android",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b769e6"
+        },
+        "name": "Mobile Development - iOS",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b769e7"
+        },
+        "name": "Mobile Development - Hybrid/Native",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b769e8"
+        },
+        "name": "DevOps / Cloud",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b769e9"
+        },
+        "name": "Site Reliability Engineering",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b769ea"
+        },
+        "name": "Technical / Solution Architect",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b769eb"
+        },
+        "name": "QA & Testing",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b769ec"
+        },
+        "name": "Big Data / Data Warehousing / ETL",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b769ed"
+        },
+        "name": "Embedded / Kernel Development",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b769ee"
+        },
+        "name": "Other Software Development",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b769ef"
+        },
+        "name": "Data Analysis / Business Analysis",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b769f0"
+        },
+        "name": "Data Science",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b769f1"
+        },
+        "name": "Data Mining / Analysis",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b769f2"
+        },
+        "name": "Data Engineering",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b769f3"
+        },
+        "name": "ML / DL Engineering",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b769f4"
+        },
+        "name": "ML / DL / AI Research",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b769f5"
+        },
+        "name": "Engineering Management",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b769f6"
+        },
+        "name": "Release Management",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b769f7"
+        },
+        "name": "Product Management",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b769f8"
+        },
+        "name": "Project Management",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b769f9"
+        },
+        "name": "Program Management",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b769fa"
+        },
+        "name": "Senior Management",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b769fb"
+        },
+        "name": "UI / UX Design",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b769fc"
+        },
+        "name": "Product Design",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b769fd"
+        },
+        "name": "UX Architect",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b769fe"
+        },
+        "name": "Web Design",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b769ff"
+        },
+        "name": "Graphic Design / Animation",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a00"
+        },
+        "name": "Illustrator",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a01"
+        },
+        "name": "Interaction Design",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a02"
+        },
+        "name": "AR / VR Design",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a03"
+        },
+        "name": "User Researcher",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a04"
+        },
+        "name": "Other Design",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a05"
+        },
+        "name": "Blockchain",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a06"
+        },
+        "name": "IoT",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a07"
+        },
+        "name": "Computer Vision",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a08"
+        },
+        "name": "Cloud Computing",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a09"
+        },
+        "name": "AR / VR",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a0a"
+        },
+        "name": "Cyber Security",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a0b"
+        },
+        "name": "Database Admin / Development",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a0c"
+        },
+        "name": "Network Administration",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a0d"
+        },
+        "name": "Systems Administration",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a0e"
+        },
+        "name": "Functional / Technical Consulting",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a0f"
+        },
+        "name": "Technical / Production Support",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a10"
+        },
+        "name": "IT Management / IT Support",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a11"
+        },
+        "name": "IT Security",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a12"
+        },
+        "name": "IT Infrastructure Services",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a13"
+        },
+        "name": "Networking & Wireless",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a14"
+        },
+        "name": "Technical Writing",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a15"
+        },
+        "name": "Other",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a16"
+        },
+        "name": "Accounting / Taxation / Audit",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a17"
+        },
+        "name": "Analytics & Business Intelligence",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a18"
+        },
+        "name": "1Banking / Financial Services",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a19"
+        },
+        "name": "Corporate Planning / Consulting / Strategy",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a1a"
+        },
+        "name": "Export / Import / Merchandising",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a1b"
+        },
+        "name": "HR / IR",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a1c"
+        },
+        "name": "Administration",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a1d"
+        },
+        "name": "IT",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a1e"
+        },
+        "name": "Insurance",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a1f"
+        },
+        "name": "ITeS / BPO / Customer Service",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a20"
+        },
+        "name": "Legal / Law / Company Secretary",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a21"
+        },
+        "name": "KPO / Research",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a22"
+        },
+        "name": "Marketing / Advertising / Public Relations",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a23"
+        },
+        "name": "Media / Entertainment",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a24"
+        },
+        "name": "ales / Business Development / Client Servicing",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a25"
+        },
+        "name": "Pharma / Biotech / Healthcare / Medical / R&D",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a26"
+        },
+        "name": "Production / Maintenance / Quality Assurance.",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a27"
+        },
+        "name": "Purchase / Supply Chain / Logistics",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a28"
+        },
+        "name": "Travel / Hospitality",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a29"
+        },
+        "name": "nstructional Designer",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a2a"
+        },
+        "name": "Content Writer/ Editors",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a2b"
+        },
+        "name": "Entrepreneur / Businessman / Outside Management Consultant",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a2c"
+        },
+        "name": "Executive Assistant/Personal Secretary",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a2d"
+        },
+        "name": "Hotels / Restaurant Management",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a2e"
+        },
+        "name": "Research & Development",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a2f"
+        },
+        "name": "Education / Language Specialist",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a30"
+        },
+        "name": "Top Management",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a31"
+        },
+        "name": "Training & Development",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a32"
+        },
+        "name": "Design",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a33"
+        },
+        "name": "Visual Merchandising",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a34"
+        },
+        "name": "Presales/RFP",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a35"
+        },
+        "name": "Real Estate/Construction",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a36"
+        },
+        "name": "NGO/Social Services/CSR",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a37"
+        },
+        "name": "Miscellaneous",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa2f932c5dff6089b76a38"
+        },
+        "name": "Product Management",
+        "createdAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:17:07.712742Z"
+        }
+    }
+]

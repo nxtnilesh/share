@@ -1,0 +1,986 @@
+[
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c1e"
+        },
+        "name": "Accounting / Auditing",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c1f"
+        },
+        "name": "Advertising & Marketing",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c20"
+        },
+        "name": "Agriculture / Forestry / Fishing",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c21"
+        },
+        "name": "Analytics / KPO / Research",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c22"
+        },
+        "name": "Animation & VFX",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c23"
+        },
+        "name": "Architecture / Interior Design",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c24"
+        },
+        "name": "Auto Components",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c25"
+        },
+        "name": "Automobile",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c26"
+        },
+        "name": "Aviation",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c27"
+        },
+        "name": "Banking",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c28"
+        },
+        "name": "Beauty & Personal Care",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c29"
+        },
+        "name": "Beverage",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c2a"
+        },
+        "name": "Biotechnology",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c2b"
+        },
+        "name": "BPO / Call Centre",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c2c"
+        },
+        "name": "Building Material",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c2d"
+        },
+        "name": "Chemicals",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c2e"
+        },
+        "name": "Clinical Research / Contract Research",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c2f"
+        },
+        "name": "Consumer Electronics & Appliances",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c30"
+        },
+        "name": "Content Development / Language",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c31"
+        },
+        "name": "Courier / Logistics",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c32"
+        },
+        "name": "Defence & Aerospace",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c33"
+        },
+        "name": "Design",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c34"
+        },
+        "name": "Education / Training",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c35"
+        },
+        "name": "E-Learning / EdTech",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c36"
+        },
+        "name": "Electrical Equipment",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c37"
+        },
+        "name": "Electronic Components / Semiconductors",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c38"
+        },
+        "name": "Electronics Manufacturing",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c39"
+        },
+        "name": "Emerging Technologies",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c3a"
+        },
+        "name": "Engineering & Construction",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c3b"
+        },
+        "name": "Events / Live Entertainment",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c3c"
+        },
+        "name": "Facility Management Services",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c3d"
+        },
+        "name": "Fertilizers / Pesticides / Agro chemicals",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c3e"
+        },
+        "name": "Film / Music / Entertainment",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c3f"
+        },
+        "name": "Financial Services",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c40"
+        },
+        "name": "FinTech / Payments",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c41"
+        },
+        "name": "Fitness & Wellness",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c42"
+        },
+        "name": "FMCG",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c43"
+        },
+        "name": "Food Processing",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c44"
+        },
+        "name": "Furniture & Furnishing",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c45"
+        },
+        "name": "Gaming",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c46"
+        },
+        "name": "Gems & Jewellery",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c47"
+        },
+        "name": "Government / Public Administration",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c48"
+        },
+        "name": "Hardware & Networking",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c49"
+        },
+        "name": "Hotels & Restaurants",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c4a"
+        },
+        "name": "Import & Export",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c4b"
+        },
+        "name": "Industrial Automation",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c4c"
+        },
+        "name": "Industrial Equipment / Machinery",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c4d"
+        },
+        "name": "Insurance",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c4e"
+        },
+        "name": "Internet",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c4f"
+        },
+        "name": "Investment Banking / Venture Capital / Private Equity",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c50"
+        },
+        "name": "Iron & Steel",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c51"
+        },
+        "name": "IT Services & Consulting",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c52"
+        },
+        "name": "Law Enforcement / Security Services",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c53"
+        },
+        "name": "Leather",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c54"
+        },
+        "name": "Legal",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c55"
+        },
+        "name": "Management Consulting",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c56"
+        },
+        "name": "Medical Devices & Equipment",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c57"
+        },
+        "name": "Medical Services / Hospital",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c58"
+        },
+        "name": "Metals & Mining",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c59"
+        },
+        "name": "Miscellaneous",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c5a"
+        },
+        "name": "NBFC",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c5b"
+        },
+        "name": "NGO / Social Services / Industry Associations",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c5c"
+        },
+        "name": "Oil & Gas",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c5d"
+        },
+        "name": "Packaging & Containers",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c5e"
+        },
+        "name": "Petrochemical / Plastics / Rubber",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c5f"
+        },
+        "name": "Pharmaceutical & Life Sciences",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c60"
+        },
+        "name": "Ports & Shipping",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c61"
+        },
+        "name": "Power",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c62"
+        },
+        "name": "Printing & Publishing",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c63"
+        },
+        "name": "Pulp & Paper",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c64"
+        },
+        "name": "Railways",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c65"
+        },
+        "name": "Real Estate",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c66"
+        },
+        "name": "Recruitment / Staffing",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c67"
+        },
+        "name": "Retail",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c68"
+        },
+        "name": "Software Product",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c69"
+        },
+        "name": "Sports / Leisure & Recreation",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c6a"
+        },
+        "name": "Telecom / ISP",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c6b"
+        },
+        "name": "Textile & Apparel",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c6c"
+        },
+        "name": "Travel & Tourism",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c6d"
+        },
+        "name": "TV / Radio",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c6e"
+        },
+        "name": "Urban Transport",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67fa3066d153de95898c4c6f"
+        },
+        "name": "Water Treatment / Waste Management",
+        "createdAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T09:20:38.358967Z"
+        }
+    }
+]

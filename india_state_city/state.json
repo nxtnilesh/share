@@ -9,10 +9,10 @@
         "name": "Andaman and Nicobar Islands",
         "isoCode": "AN",
         "createdAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         },
         "updatedAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         }
     },
     {
@@ -25,10 +25,10 @@
         "name": "Andhra Pradesh",
         "isoCode": "AD",
         "createdAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         },
         "updatedAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         }
     },
     {
@@ -41,10 +41,10 @@
         "name": "Arunachal Pradesh",
         "isoCode": "AR",
         "createdAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         },
         "updatedAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         }
     },
     {
@@ -57,10 +57,10 @@
         "name": "Assam",
         "isoCode": "AS",
         "createdAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         },
         "updatedAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         }
     },
     {
@@ -73,10 +73,10 @@
         "name": "Bihar",
         "isoCode": "BR",
         "createdAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         },
         "updatedAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         }
     },
     {
@@ -89,10 +89,10 @@
         "name": "Chandigarh",
         "isoCode": "CH",
         "createdAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         },
         "updatedAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         }
     },
     {
@@ -105,10 +105,10 @@
         "name": "Chhattisgarh",
         "isoCode": "CG",
         "createdAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         },
         "updatedAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         }
     },
     {
@@ -118,13 +118,13 @@
         "_country": {
             "$oid": "6715f9293065b2a277cc83aa"
         },
-        "name": "Goa",
-        "isoCode": "GA",
+        "name": "Dadra and Nagar Haveli and Daman and Diu",
+        "isoCode": "DNHDD",
         "createdAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         },
         "updatedAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         }
     },
     {
@@ -134,13 +134,13 @@
         "_country": {
             "$oid": "6715f9293065b2a277cc83aa"
         },
-        "name": "Gujarat",
-        "isoCode": "GJ",
+        "name": "Delhi",
+        "isoCode": "DL",
         "createdAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         },
         "updatedAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         }
     },
     {
@@ -150,13 +150,13 @@
         "_country": {
             "$oid": "6715f9293065b2a277cc83aa"
         },
-        "name": "Haryana",
-        "isoCode": "HR",
+        "name": "Goa",
+        "isoCode": "GA",
         "createdAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         },
         "updatedAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         }
     },
     {
@@ -166,13 +166,13 @@
         "_country": {
             "$oid": "6715f9293065b2a277cc83aa"
         },
-        "name": "Himachal Pradesh",
-        "isoCode": "HP",
+        "name": "Gujarat",
+        "isoCode": "GJ",
         "createdAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         },
         "updatedAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         }
     },
     {
@@ -182,13 +182,13 @@
         "_country": {
             "$oid": "6715f9293065b2a277cc83aa"
         },
-        "name": "Jammu and Kashmir",
-        "isoCode": "JK",
+        "name": "Haryana",
+        "isoCode": "HR",
         "createdAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         },
         "updatedAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         }
     },
     {
@@ -198,13 +198,13 @@
         "_country": {
             "$oid": "6715f9293065b2a277cc83aa"
         },
-        "name": "Jharkhand",
-        "isoCode": "JH",
+        "name": "Himachal Pradesh",
+        "isoCode": "HP",
         "createdAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         },
         "updatedAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         }
     },
     {
@@ -214,13 +214,13 @@
         "_country": {
             "$oid": "6715f9293065b2a277cc83aa"
         },
-        "name": "Karnataka",
-        "isoCode": "KA",
+        "name": "Jammu and Kashmir",
+        "isoCode": "JK",
         "createdAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         },
         "updatedAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         }
     },
     {
@@ -230,13 +230,13 @@
         "_country": {
             "$oid": "6715f9293065b2a277cc83aa"
         },
-        "name": "Kerala",
-        "isoCode": "KL",
+        "name": "Jharkhand",
+        "isoCode": "JH",
         "createdAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         },
         "updatedAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         }
     },
     {
@@ -246,13 +246,13 @@
         "_country": {
             "$oid": "6715f9293065b2a277cc83aa"
         },
-        "name": "Lakshadweep",
-        "isoCode": "LD",
+        "name": "Karnataka",
+        "isoCode": "KA",
         "createdAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         },
         "updatedAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         }
     },
     {
@@ -262,13 +262,13 @@
         "_country": {
             "$oid": "6715f9293065b2a277cc83aa"
         },
-        "name": "Madhya Pradesh",
-        "isoCode": "MP",
+        "name": "Kerala",
+        "isoCode": "KL",
         "createdAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         },
         "updatedAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         }
     },
     {
@@ -278,13 +278,13 @@
         "_country": {
             "$oid": "6715f9293065b2a277cc83aa"
         },
-        "name": "Maharashtra",
-        "isoCode": "MH",
+        "name": "Lakshadweep",
+        "isoCode": "LD",
         "createdAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         },
         "updatedAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         }
     },
     {
@@ -294,13 +294,13 @@
         "_country": {
             "$oid": "6715f9293065b2a277cc83aa"
         },
-        "name": "Manipur",
-        "isoCode": "MN",
+        "name": "Madhya Pradesh",
+        "isoCode": "MP",
         "createdAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         },
         "updatedAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         }
     },
     {
@@ -310,13 +310,13 @@
         "_country": {
             "$oid": "6715f9293065b2a277cc83aa"
         },
-        "name": "Meghalaya",
-        "isoCode": "ML",
+        "name": "Maharashtra",
+        "isoCode": "MH",
         "createdAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         },
         "updatedAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         }
     },
     {
@@ -326,13 +326,13 @@
         "_country": {
             "$oid": "6715f9293065b2a277cc83aa"
         },
-        "name": "Mizoram",
-        "isoCode": "MZ",
+        "name": "Manipur",
+        "isoCode": "MN",
         "createdAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         },
         "updatedAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         }
     },
     {
@@ -342,13 +342,13 @@
         "_country": {
             "$oid": "6715f9293065b2a277cc83aa"
         },
-        "name": "Nagaland",
-        "isoCode": "NL",
+        "name": "Meghalaya",
+        "isoCode": "ML",
         "createdAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         },
         "updatedAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         }
     },
     {
@@ -358,13 +358,13 @@
         "_country": {
             "$oid": "6715f9293065b2a277cc83aa"
         },
-        "name": "Odisha",
-        "isoCode": "OD",
+        "name": "Mizoram",
+        "isoCode": "MZ",
         "createdAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         },
         "updatedAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         }
     },
     {
@@ -374,13 +374,13 @@
         "_country": {
             "$oid": "6715f9293065b2a277cc83aa"
         },
-        "name": "Puducherry",
-        "isoCode": "PY",
+        "name": "Nagaland",
+        "isoCode": "NL",
         "createdAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         },
         "updatedAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         }
     },
     {
@@ -390,13 +390,13 @@
         "_country": {
             "$oid": "6715f9293065b2a277cc83aa"
         },
-        "name": "Punjab",
-        "isoCode": "PB",
+        "name": "Odisha",
+        "isoCode": "OD",
         "createdAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         },
         "updatedAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         }
     },
     {
@@ -406,13 +406,13 @@
         "_country": {
             "$oid": "6715f9293065b2a277cc83aa"
         },
-        "name": "Rajasthan",
-        "isoCode": "RJ",
+        "name": "Puducherry",
+        "isoCode": "PY",
         "createdAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         },
         "updatedAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         }
     },
     {
@@ -422,13 +422,13 @@
         "_country": {
             "$oid": "6715f9293065b2a277cc83aa"
         },
-        "name": "Sikkim",
-        "isoCode": "SK",
+        "name": "Punjab",
+        "isoCode": "PB",
         "createdAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         },
         "updatedAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         }
     },
     {
@@ -438,13 +438,13 @@
         "_country": {
             "$oid": "6715f9293065b2a277cc83aa"
         },
-        "name": "Tamil Nadu",
-        "isoCode": "TN",
+        "name": "Rajasthan",
+        "isoCode": "RJ",
         "createdAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         },
         "updatedAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         }
     },
     {
@@ -454,13 +454,13 @@
         "_country": {
             "$oid": "6715f9293065b2a277cc83aa"
         },
-        "name": "Telangana",
-        "isoCode": "TS",
+        "name": "Sikkim",
+        "isoCode": "SK",
         "createdAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         },
         "updatedAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         }
     },
     {
@@ -470,13 +470,13 @@
         "_country": {
             "$oid": "6715f9293065b2a277cc83aa"
         },
-        "name": "Tripura",
-        "isoCode": "TR",
+        "name": "Tamil Nadu",
+        "isoCode": "TN",
         "createdAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         },
         "updatedAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         }
     },
     {
@@ -486,13 +486,13 @@
         "_country": {
             "$oid": "6715f9293065b2a277cc83aa"
         },
-        "name": "Uttar Pradesh",
-        "isoCode": "UP",
+        "name": "Telangana",
+        "isoCode": "TS",
         "createdAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         },
         "updatedAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         }
     },
     {
@@ -502,13 +502,13 @@
         "_country": {
             "$oid": "6715f9293065b2a277cc83aa"
         },
-        "name": "Uttarakhand",
-        "isoCode": "UK",
+        "name": "Tripura",
+        "isoCode": "TR",
         "createdAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         },
         "updatedAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         }
     },
     {
@@ -518,13 +518,45 @@
         "_country": {
             "$oid": "6715f9293065b2a277cc83aa"
         },
+        "name": "Uttar Pradesh",
+        "isoCode": "UP",
+        "createdAt": {
+            "$date": "2025-04-12T17:35:53.039566Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T17:35:53.039566Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6715f92a3065b2a277cc83e3"
+        },
+        "_country": {
+            "$oid": "6715f9293065b2a277cc83aa"
+        },
+        "name": "Uttarakhand",
+        "isoCode": "UK",
+        "createdAt": {
+            "$date": "2025-04-12T17:35:53.039566Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-12T17:35:53.039566Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6715f92a3065b2a277cc83e4"
+        },
+        "_country": {
+            "$oid": "6715f9293065b2a277cc83aa"
+        },
         "name": "West Bengal",
         "isoCode": "WB",
         "createdAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         },
         "updatedAt": {
-            "$date": "2025-04-12T17:18:22.234873Z"
+            "$date": "2025-04-12T17:35:53.039566Z"
         }
     }
 ]

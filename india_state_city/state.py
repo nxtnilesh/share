@@ -9,7 +9,7 @@ states_to_extract = [
   "Bihar",
   "Chandigarh",
   "Chhattisgarh",
-  "Dadra and Nagar Haveli and Daman and Diu"
+  "Dadra and Nagar Haveli and Daman and Diu",
   "Delhi",
   "Goa",
   "Gujarat",

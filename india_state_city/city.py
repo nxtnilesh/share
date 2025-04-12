@@ -18,7 +18,6 @@ for city in cities_data:
     city_name = city.get("city")
     lat = city.get("latitude")
     lon = city.get("longitude")
-    print("cities data",city)
 
     if state_name in state_id_map:
         city_doc = {
